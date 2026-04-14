@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Danny 👋
 
-<!--
-**DannyGuo06/DannyGuo06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 UCLA | Mathematics/Economics (Specialization in Computing)  
+   Data Science Engineering Minor  
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer  
+   Prev Software Startup Contributor (YC X25)  
+   
+--------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎧 Outside of Tech
+DJ | Basketball  
+
+--------------------------------------------------------------
+
+## 🤝 Let’s Connect
+If you have any interesting ideas or want to collaborate, feel free to reach out  
+Let’s push some code together!! 
+**✉️ dannyguo@g.ucla.edu**
