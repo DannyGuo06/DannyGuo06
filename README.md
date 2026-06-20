@@ -1,9 +1,9 @@
-# Hi, I'm Danny 👋
+# Hi, I'm Danny 
 
-🎓 UCLA | Mathematics/Economics (Specialization in Computing)  
+UCLA | Mathematics/Economics (Specialization in Computing)  
    Data Science Engineering Minor  
 
-💻 Aspiring Software Engineer  
+spiring Software Engineer  
    Prev Software Startup Contributor (YC X25)  
    
 --------------------------------------------------------------
@@ -13,7 +13,7 @@ DJ | Basketball
 
 --------------------------------------------------------------
 
-## 🤝 Let’s Connect
+## Let’s Connect
 If you have any interesting ideas or want to collaborate, feel free to reach out  
 Let’s push some code together!! 
 **✉️ dannyguo@g.ucla.edu**
