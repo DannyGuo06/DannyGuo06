@@ -8,7 +8,7 @@ spiring Software Engineer
    
 --------------------------------------------------------------
 
-## 🎧 Outside of Tech
+## Outside of Tech
 DJ | Basketball  
 
 --------------------------------------------------------------
@@ -16,4 +16,4 @@ DJ | Basketball
 ## Let’s Connect
 If you have any interesting ideas or want to collaborate, feel free to reach out  
 Let’s push some code together!! 
-**✉️ dannyguo@g.ucla.edu**
+**dannyguo@g.ucla.edu**
