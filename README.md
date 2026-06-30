@@ -9,7 +9,7 @@ spiring Software Engineer
 --------------------------------------------------------------
 
 ## Outside of Tech
-DJ | Basketball  
+DJ | Basketball | Cooking
 
 --------------------------------------------------------------
 
